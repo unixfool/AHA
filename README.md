@@ -53,7 +53,6 @@ on this step you need to make sure you got a Facebook Developer API for make thi
 
 <p>The Settings app on Android includes a screen called Developer options that lets you configure system behaviors that help you profile and debug your app performance. 
 For example, you can enable debugging over USB, capture a bug report, enable visual feedback for taps, flash window surfaces when they update, use the GPU for 2D graphics rendering, and more. </p>
-<br/>
 <p>
 <b>How to developer mode:</b> https://developer.android.com/studio/debug/dev-options
 </p>
