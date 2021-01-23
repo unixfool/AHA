@@ -20,5 +20,7 @@ You can use your CMS URL or your Responsive web URL like a Android app.
 	
 	
 ### How TO ?
-`1` Step: You need a `Responsive` URL <br/>
-`2` Step: You need edit `AHA/app/src/main/java/aha/ircayuda/org/MainActivity.java` line 25: `String target_url=`
+`1` <b>Step:</b> You need a `Responsive` URL <br/>
+`2` <b>Step:</b> You need edit `AHA/app/src/main/java/aha/ircayuda/org/MainActivity.java` line 25: `String target_url=`
+`3` <b>Step:</b> Gmail Login `AHA/app/src/main/java/aha/ircayuda/org/MainActivity.java` line 173: `if (url.contains("Your-Google-CallBack-URL")) {return false; }`<br/>
+on this step you need to make sure you got a gmail API + a APP on Google for make this login work in your web first.
