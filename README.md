@@ -169,3 +169,35 @@ For example, you can enable debugging over USB, capture a bug report, enable vis
 
 ```
 </p>
+
+<p>
+<b>File:</b> AndroidManifest.xml<br/>
+<b>NOTE:</b> Your app can be set like this with the strings.xml file.
+
+```
+    <application
+        android:name=".PushNotification"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Alertas" />
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+
+        <service
+            android:name=".MyFirebaseMessagingService"
+            android:enabled="true"
+            android:exported="false" />
+    </application>
+
+```
+</p>
