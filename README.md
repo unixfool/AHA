@@ -1,6 +1,12 @@
 # AHA
 <strong>Android Hybrid App</strong>
 <p>V.0.1-BETA</p>
+<br/>
+
+<strong>Programs</strong>
+<p>Android Studio: https://developer.android.com</p>
+<p>NotePad++: https://notepad-plus-plus.org</p>
+<p>Visual Studio Code: https://code.visualstudio.com/</p>
 
 ### WHAT IS THIS ?
 AHA (Android Hybrid App) is a emulator full app for android.<br/>
