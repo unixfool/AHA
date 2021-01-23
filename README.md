@@ -57,46 +57,7 @@ For example, you can enable debugging over USB, capture a bug report, enable vis
 <b>How to developer mode:</b> https://developer.android.com/studio/debug/dev-options
 </p>
 
-## ICONS
 
-`NOTE:` You can edit your APP incons. Make sure you use this example we got in this page. ( PX = Pixel ) 48x48px means. 48px with. 48px heigh.<br/>
-`NOTE:` Android work with scale icons, you need to edit all this example for make sure work in all android version.
-
-##### Mipmap-mdpi ( 48 x 48px )
-<img src="https://ircayuda.org/aha/img/mipmap-mdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-mdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
-
-##### Mipmap-hdpi ( 72 x 72px ) 
-<img src="https://ircayuda.org/aha/img/mipmap-hdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-hdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
-
-##### Mipmap-xhdpi ( 96 x 96px )
-<img src="https://ircayuda.org/aha/img/mipmap-xhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-xhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
-
-##### Mipmap-xxhdpi ( 144 x 144px )
-<img src="https://ircayuda.org/aha/img/mipmap-xxhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-xxhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
-
-##### Mipmap-xxxhdpi ( 192 x 192px )
-<img src="https://ircayuda.org/aha/img/mipmap-xxxhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-xxxhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
-
-
-## APP IMG
-
-<img src="https://ircayuda.org/aha/img/APP/appz/aha.jpg" alt="AHA - Android Hybrid App" /> 
-<img src="https://ircayuda.org/aha/img/APP/appz/alertas.jpg" alt="AHA - Android Hybrid App" />
-
-<img src="https://ircayuda.org/aha/img/APP/appz/ic_stat_ic_notification.png" alt="AHA - Android Hybrid App" /> <img src="https://ircayuda.org/aha/img/APP/appz/logo.png" alt="AHA - Android Hybrid App" /> <img src="https://ircayuda.org/aha/img/APP/appz/ic_launcher_round.png" alt="AHA - Android Hybrid App" />
-
-## Android Studio IMG
-
-#### Loading Screen
-<img src="https://ircayuda.org/aha/img/APP/loading.jpg" alt="AHA - Android Hybrid App" />
-
-#### News Screen
-<img src="https://ircayuda.org/aha/img/APP/news.jpg" alt="AHA - Android Hybrid App" />
-
-#### Splash Screen
-<img src="https://ircayuda.org/aha/img/APP/splash.jpg" alt="AHA - Android Hybrid App" />
- 
- 
 ## THEME Colors / Style / Settings
 
 <p>
@@ -201,3 +162,45 @@ For example, you can enable debugging over USB, capture a bug report, enable vis
 
 ```
 </p>
+
+
+## ICONS
+
+`NOTE:` You can edit your APP incons. Make sure you use this example we got in this page. ( PX = Pixel ) 48x48px means. 48px with. 48px heigh.<br/>
+`NOTE:` Android work with scale icons, you need to edit all this example for make sure work in all android version.
+
+##### Mipmap-mdpi ( 48 x 48px )
+<img src="https://ircayuda.org/aha/img/mipmap-mdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-mdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
+
+##### Mipmap-hdpi ( 72 x 72px ) 
+<img src="https://ircayuda.org/aha/img/mipmap-hdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-hdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
+
+##### Mipmap-xhdpi ( 96 x 96px )
+<img src="https://ircayuda.org/aha/img/mipmap-xhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-xhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
+
+##### Mipmap-xxhdpi ( 144 x 144px )
+<img src="https://ircayuda.org/aha/img/mipmap-xxhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-xxhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
+
+##### Mipmap-xxxhdpi ( 192 x 192px )
+<img src="https://ircayuda.org/aha/img/mipmap-xxxhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-xxxhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
+
+
+## APP IMG
+
+<img src="https://ircayuda.org/aha/img/APP/appz/aha.jpg" alt="AHA - Android Hybrid App" /> 
+<img src="https://ircayuda.org/aha/img/APP/appz/alertas.jpg" alt="AHA - Android Hybrid App" />
+
+<img src="https://ircayuda.org/aha/img/APP/appz/ic_stat_ic_notification.png" alt="AHA - Android Hybrid App" /> <img src="https://ircayuda.org/aha/img/APP/appz/logo.png" alt="AHA - Android Hybrid App" /> <img src="https://ircayuda.org/aha/img/APP/appz/ic_launcher_round.png" alt="AHA - Android Hybrid App" />
+
+## Android Studio IMG
+
+#### Loading Screen
+<img src="https://ircayuda.org/aha/img/APP/loading.jpg" alt="AHA - Android Hybrid App" />
+
+#### News Screen
+<img src="https://ircayuda.org/aha/img/APP/news.jpg" alt="AHA - Android Hybrid App" />
+
+#### Splash Screen
+<img src="https://ircayuda.org/aha/img/APP/splash.jpg" alt="AHA - Android Hybrid App" />
+ 
+ 
