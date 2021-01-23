@@ -51,4 +51,4 @@ on this step you need to make sure you got a Facebook Developer API for make thi
 <img src="https://ircayuda.org/aha/img/APP/appz/aha.jpg" alt="AHA - Android Hybrid App" /> 
 <img src="https://ircayuda.org/aha/img/APP/appz/alertas.jpg" alt="AHA - Android Hybrid App" />
 
-<img src="https://ircayuda.org/aha/img/APP/appz/ic_stat_ic_notification.png" alt="AHA - Android Hybrid App" /> <img src="https://ircayuda.org/aha/img/APP/appz/ic_launcher_round.png" alt="AHA - Android Hybrid App" /> <img src="https://ircayuda.org/aha/img/APP/appz/logo.png" alt="AHA - Android Hybrid App" />
+<img src="https://ircayuda.org/aha/img/APP/appz/ic_stat_ic_notification.png" alt="AHA - Android Hybrid App" /> <img src="https://ircayuda.org/aha/img/APP/appz/logo.png" alt="AHA - Android Hybrid App" /> <img src="https://ircayuda.org/aha/img/APP/appz/ic_launcher_round.png" alt="AHA - Android Hybrid App" /> 
