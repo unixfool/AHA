@@ -3,6 +3,15 @@
 <p>V.0.1-BETA</p>
 <br/>
 
+### WHAT IS THIS ?
+AHA (Android Hybrid App) is a emulator full app for android.<br/>
+You can use your CMS URL or your Responsive web URL like a Android app.
+
+<strong>Programs</strong>
+<p>Android Studio: https://developer.android.com</p>
+<p>NotePad++: https://notepad-plus-plus.org</p>
+<p>Visual Studio Code: https://code.visualstudio.com/</p>
+
 ## Android API Test
 
 <b>API 22:</b> Android <b>5.1</b> (Lollipop) <b>92,3%</b> of devices.<br/>
@@ -13,16 +22,6 @@
 <b>API 27:</b> Android <b>8.1</b> (Oreo) <b>53,5%</b> of devices.<br/>
 <b>API 28:</b> Android <b>9.0</b> (Pie) <b>39,5%</b> of devices.<br/>
 <b>API 29:</b> Android <b>10</b> (Q) <b>8,2%</b> of devices.
-
-
-<strong>Programs</strong>
-<p>Android Studio: https://developer.android.com</p>
-<p>NotePad++: https://notepad-plus-plus.org</p>
-<p>Visual Studio Code: https://code.visualstudio.com/</p>
-
-### WHAT IS THIS ?
-AHA (Android Hybrid App) is a emulator full app for android.<br/>
-You can use your CMS URL or your Responsive web URL like a Android app.
 
 ### FEATURES
 	- Splash Screen
