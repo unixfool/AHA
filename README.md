@@ -100,8 +100,8 @@ For example, you can enable debugging over USB, capture a bug report, enable vis
 ## THEME Colors / Style / Settings
 
 <p>
-`colors.xml`
-<b>NOTE:</b> You can set APP color in RGB. 
+<b>File:</b> colors.xml<br/>
+<b>NOTE:</b> You can set APP color in RGB. Example: (Black Color): #000000 or #000
 
 ```
 <resources>
@@ -112,6 +112,34 @@ For example, you can enable debugging over USB, capture a bug report, enable vis
     <color name="onesignal_bgimage_notif_body_color">#2a2a2a</color>
 </resources>
 ```
-
 </p>
 
+<p>
+<b>File:</b> styles.xml<br/>
+<b>NOTE:</b> You can custom your settings colors. The file looks like: 
+
+```
+<resources>
+    <!-- Base application theme. -->
+<style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+ </style>
+
+<style name="JsAlert" parent="Theme.AppCompat.Dialog.Alert" >
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+</style>
+
+ <style name="onReceivedError" parent="Theme.AppCompat.Dialog.Alert" >
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+ </style>
+
+</resources>
+```
+</p>
