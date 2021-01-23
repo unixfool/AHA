@@ -31,21 +31,16 @@ on this step you need to make sure you got a Facebook Developer API for make thi
 ## ICONS
 
 ##### Mipmap-mdpi
-<img src="https://ircayuda.org/aha/img/mipmap-mdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> 
-<img src="https://ircayuda.org/aha/img/mipmap-mdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
+<img src="https://ircayuda.org/aha/img/mipmap-mdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-mdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
 
 ##### Mipmap-hdpi
-<img src="https://ircayuda.org/aha/img/mipmap-hdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> 
-<img src="https://ircayuda.org/aha/img/mipmap-hdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
+<img src="https://ircayuda.org/aha/img/mipmap-hdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-hdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
 
 ##### Mipmap-xhdpi
-<img src="https://ircayuda.org/aha/img/mipmap-xhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> 
-<img src="https://ircayuda.org/aha/img/mipmap-xhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
+<img src="https://ircayuda.org/aha/img/mipmap-xhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-xhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
 
 ##### Mipmap-xxhdpi
-<img src="https://ircayuda.org/aha/img/mipmap-xxhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> 
-<img src="https://ircayuda.org/aha/img/mipmap-xxhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
+<img src="https://ircayuda.org/aha/img/mipmap-xxhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-xxhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
 
 ##### Mipmap-xxxhdpi
-<img src="https://ircayuda.org/aha/img/mipmap-xxxhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/>
-<img src="https://ircayuda.org/aha/img/mipmap-xxxhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
+<img src="https://ircayuda.org/aha/img/mipmap-xxxhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-xxxhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
