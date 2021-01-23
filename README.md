@@ -11,7 +11,7 @@ You can use your CMS URL or your Responsive web URL like a Android app.
 	- News Screen
 	- Intro Screen
 	- Loading gif
-	- OneSignal Push : (https://onesignal.com/)
+	- OneSignal Push : [https://onesignal.com/] (https://onesignal.com/)
 	- Firebase : (https://firebase.google.com/)
 	- Gmail Login
 	- Facebook Login
