@@ -3,6 +3,18 @@
 <p>V.0.1-BETA</p>
 <br/>
 
+## Android API Test
+
+API 22: Android 5.1 (Lollipop) 92,3% of devices.<br/>
+API 23: Android 6.0 (Marshmellow) 84,9% of devices.<br/>
+API 24: Android 7.0 (Nougat) 73,7% of devices.<br/>
+API 25: Android 7.1.1 (Nougat) 66,2% of devices.<br/>
+API 26: Android 8.0 (Oreo) 60,8% of devices.<br/>
+API 27: Android 8.1 (Oreo) 53,5% of devices.<br/>
+API 28: Android 9.0 (Pie) 39,5% of devices.<br/>
+API 29: Android 10 (Q) 8,2% of devices.
+
+
 <strong>Programs</strong>
 <p>Android Studio: https://developer.android.com</p>
 <p>NotePad++: https://notepad-plus-plus.org</p>
