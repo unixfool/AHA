@@ -96,3 +96,22 @@ For example, you can enable debugging over USB, capture a bug report, enable vis
 #### Splash Screen
 <img src="https://ircayuda.org/aha/img/APP/splash.jpg" alt="AHA - Android Hybrid App" />
  
+ 
+## THEME Colors / Style / Settings
+
+<p>
+`colors.xml`
+<b>NOTE:</b> You can set APP color in RGB. 
+
+```
+<resources>
+    <color name="colorPrimary">#2a2a2a</color>
+    <color name="colorPrimaryDark">#2a2a2a</color>
+    <color name="colorAccent">#e84a5f</color>
+    <color name="onesignal_bgimage_notif_title_color">#e84a5f</color>
+    <color name="onesignal_bgimage_notif_body_color">#2a2a2a</color>
+</resources>
+```
+
+</p>
+
