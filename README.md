@@ -143,3 +143,29 @@ For example, you can enable debugging over USB, capture a bug report, enable vis
 </resources>
 ```
 </p>
+
+
+
+</p>
+
+<p>
+<b>File:</b> strings.xml<br/>
+<b>NOTE:</b> You can string your APP text or msg. Make some shortcuts
+
+```
+<resources>
+    <string name="app_name" translatable="false">Android Hybrid App</string>
+    <string name="default_notification_channel_id" translatable="false">default_channel</string>
+    <string name="noticias" translatable="false">Noticias</string>
+    <string name="alertas" translatable="false">Alertas</string>
+    <string name="AHA" translatable="false">Android Hybrid App</string>
+    <string name="Inicio" translatable="false">Inicio</string>
+    <string name="lugar" translatable="false">Lugar</string>
+    <string name="fecha" translatable="false">Fecha</string>
+    <string name="hora" translatable="false">Hora</string>
+    <string name="mensaje" translatable="false">Mensaje</string>
+    <string name="name" translatable="false">Nombre</string>
+</resources>
+
+```
+</p>
