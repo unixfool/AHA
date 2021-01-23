@@ -55,12 +55,12 @@ on this step you need to make sure you got a Facebook Developer API for make thi
 
 ## Android Studio IMG
 
-##### Loading Screen
+#### Loading Screen
 <img src="https://ircayuda.org/aha/img/APP/loading.jpg" alt="AHA - Android Hybrid App" />
 
-##### News Screen
+#### News Screen
 <img src="https://ircayuda.org/aha/img/APP/news.jpg" alt="AHA - Android Hybrid App" />
 
-##### Splash Screen
+#### Splash Screen
 <img src="https://ircayuda.org/aha/img/APP/splash.jpg" alt="AHA - Android Hybrid App" />
  
