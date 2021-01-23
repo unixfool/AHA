@@ -30,17 +30,17 @@ on this step you need to make sure you got a Facebook Developer API for make thi
 
 ## ICONS
 
-##### Mipmap-mdpi
+##### Mipmap-mdpi ( 48 x 48px )
 <img src="https://ircayuda.org/aha/img/mipmap-mdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-mdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
 
-##### Mipmap-hdpi
+##### Mipmap-hdpi ( 72 x 72px ) 
 <img src="https://ircayuda.org/aha/img/mipmap-hdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-hdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
 
-##### Mipmap-xhdpi
+##### Mipmap-xhdpi ( 96 x 96px )
 <img src="https://ircayuda.org/aha/img/mipmap-xhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-xhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
 
-##### Mipmap-xxhdpi
+##### Mipmap-xxhdpi ( 144 x 144px )
 <img src="https://ircayuda.org/aha/img/mipmap-xxhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-xxhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
 
-##### Mipmap-xxxhdpi
+##### Mipmap-xxxhdpi ( 192 x 192px )
 <img src="https://ircayuda.org/aha/img/mipmap-xxxhdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-xxxhdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
