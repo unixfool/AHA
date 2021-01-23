@@ -20,5 +20,5 @@ You can use your CMS URL or your Responsive web URL like a Android app.
 	
 	
 ### How TO ?
-`1` Step: You need a `Responsive` URL
+`1` Step: You need a `Responsive` URL <br/>
 `2` Step: You need edit `AHA/app/src/main/java/aha/ircayuda/org/MainActivity.java` line 25: `String target_url=`
