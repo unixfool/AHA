@@ -33,7 +33,7 @@ on this step you need to make sure you got a gmail API + a APP on Google for mak
 `4` <b>Step:</b> Facebook Login `AHA/app/src/main/java/aha/ircayuda/org/MainActivity.java` <br/><b>Line 174:</b> `if (url.contains("Your-Facebook-CallBack-URL")) {return false;}`<br/>
 on this step you need to make sure you got a Facebook Developer API for make this login work in your web first.<br/>
 `5` <b>Step:</b> Edit Bundle for OneSignal. ` AHA/app/build.gradle`<br/>
-<b>Line 29:</b> `onesignal_app_id : 'YOUR-OneSignal-APP-ID',`
+<b>Line 29:</b> `onesignal_app_id : 'YOUR-OneSignal-APP-ID'`
 
 ## ICONS
 
