@@ -48,24 +48,24 @@ public class PushNotification extends Application {
                 prefEditor.apply();
             }
 
-            if (data !=null && data.has("lugar")) {
-                prefEditor.putString("lugarRecieved", data.optString("lugar"));
+            if (data !=null && data.has("location")) {
+                prefEditor.putString("lugarRecieved", data.optString("location"));
                 prefEditor.apply();
             }
 
 
-            if (data !=null && data.has("fecha")) {
-                prefEditor.putString("fechaRecieved", data.optString("fecha"));
+            if (data !=null && data.has("date")) {
+                prefEditor.putString("fechaRecieved", data.optString("date"));
                 prefEditor.apply();
             }
 
-            if (data !=null && data.has("hora")) {
-                prefEditor.putString("horaRecieved", data.optString("hora"));
+            if (data !=null && data.has("time")) {
+                prefEditor.putString("horaRecieved", data.optString("time"));
                 prefEditor.apply();
             }
 
-            if (data !=null && data.has("mensaje")) {
-                prefEditor.putString("mensajeRecieved", data.optString("mensaje"));
+            if (data !=null && data.has("message")) {
+                prefEditor.putString("mensajeRecieved", data.optString("message"));
                 prefEditor.apply();
 
             }

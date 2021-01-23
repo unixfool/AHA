@@ -164,7 +164,7 @@ public class MainActivity extends AppCompatActivity {
                                 return true;
 
                             } catch (android.content.ActivityNotFoundException e) {
-                                Toast.makeText(getApplicationContext(), "WHATSAPP no instalado.",
+                                Toast.makeText(getApplicationContext(), "WHATSAPP NOT INSTALLED.",
                                         Toast.LENGTH_LONG).show();
                             }
 
@@ -174,7 +174,6 @@ public class MainActivity extends AppCompatActivity {
                         if (url.contains("Your-Facebook-CallBack-URL")) {return false;}
                         view.loadUrl(url);
                         return false;
-
 
                     }
 
@@ -189,8 +188,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-
-
 
     public class myWebClient extends WebViewClient    {
 
@@ -207,7 +204,6 @@ public class MainActivity extends AppCompatActivity {
             super.onPageFinished(view, url);
 
         }
-
 
         @Override
         public boolean shouldOverrideUrlLoading(WebView view, String url) {

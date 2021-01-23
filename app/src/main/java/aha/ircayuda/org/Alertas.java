@@ -34,7 +34,7 @@ public class Alertas extends AppCompatActivity {
         prefs = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
         name = findViewById(R.id.name);
 
-        name.setText (Html.fromHtml(prefs.getString("nameRecieved", "<p style='color:#e8495f;'><strong> No</strong> tenemos ninguna <strong>alerta</strong> por el momento.</p> " )+"<br/>"
+        name.setText (Html.fromHtml(prefs.getString("nameRecieved", "<p style='color:#e8495f;'><strong> NO</strong> <strong>ALERTS</strong> For the moment.</p> " )+"<br/>"
                 +prefs.getString("lugarRecieved", " " )+"<br/>"
                 +prefs.getString("fechaRecieved", " " )+"<br/>"
                 +prefs.getString("horaRecieved", " " )+"<br/>"
