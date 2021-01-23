@@ -10,6 +10,8 @@ You can use your CMS URL or your Responsive web URL like a Android app.
 <p>Android Studio: https://developer.android.com</p>
 <p>NotePad++: https://notepad-plus-plus.org</p>
 <p>Visual Studio Code: https://code.visualstudio.com/</p>
+<p>OneSignal Push: https://onesignal.com/</p>
+<p>Google Firebase: https://firebase.google.com/</p>
 
 ## Android API Test
 
@@ -27,8 +29,8 @@ You can use your CMS URL or your Responsive web URL like a Android app.
 	- News Screen
 	- Intro Screen
 	- Loading gif
-	- OneSignal Push : https://onesignal.com/
-	- Firebase : https://firebase.google.com/
+	- OneSignal Push
+	- Firebase
 	- Gmail Login
 	- Facebook Login
 	- Icons
