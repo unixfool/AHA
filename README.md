@@ -5,14 +5,14 @@
 
 ## Android API Test
 
-API 22: Android 5.1 (Lollipop) 92,3% of devices.<br/>
-API 23: Android 6.0 (Marshmellow) 84,9% of devices.<br/>
-API 24: Android 7.0 (Nougat) 73,7% of devices.<br/>
-API 25: Android 7.1.1 (Nougat) 66,2% of devices.<br/>
-API 26: Android 8.0 (Oreo) 60,8% of devices.<br/>
-API 27: Android 8.1 (Oreo) 53,5% of devices.<br/>
-API 28: Android 9.0 (Pie) 39,5% of devices.<br/>
-API 29: Android 10 (Q) 8,2% of devices.
+<b>API 22:</b> Android <b>5.1</b> (Lollipop) <b>92,3%</b> of devices.<br/>
+<b>API 23:</b> Android <b>6.0</b> (Marshmellow) <b>84,9%</b> of devices.<br/>
+<b>API 24:</b> Android <b>7.0</b> (Nougat) <b>73,7%</b> of devices.<br/>
+<b>API 25:</b> Android <b>7.1.1</b> (Nougat) <b>66,2%</b> of devices.<br/>
+<b>API 26:</b> Android <b>8.0</b> (Oreo) <b>60,8%</b> of devices.<br/>
+<b>API 27:</b> Android <b>8.1</b> (Oreo) <b>53,5%</b> of devices.<br/>
+<b>API 28:</b> Android <b>9.0</b> (Pie) <b>39,5%</b> of devices.<br/>
+<b>API 29:</b> Android <b>10</b> (Q) <b>8,2%</b> of devices.
 
 
 <strong>Programs</strong>
