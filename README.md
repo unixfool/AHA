@@ -30,7 +30,8 @@ on this step you need to make sure you got a Facebook Developer API for make thi
 
 ## ICONS
 
-`NOTE:` You can edit your APP incons. Make sure you use this example we got in this page. ( PX = Pixel ) 48x48px means. 48px with. 48px heigh.
+`NOTE:` You can edit your APP incons. Make sure you use this example we got in this page. ( PX = Pixel ) 48x48px means. 48px with. 48px heigh.<br/>
+`NOTE:` Android work with scale icons, you need to edit all this example for make sure work in all android version.
 
 ##### Mipmap-mdpi ( 48 x 48px )
 <img src="https://ircayuda.org/aha/img/mipmap-mdpi/ic_launcher.png" alt="AHA - Android Hybrid App"/> <img src="https://ircayuda.org/aha/img/mipmap-mdpi/ic_launcher_round.png" alt="AHA - Android Hybrid App"/>
