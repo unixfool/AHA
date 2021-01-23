@@ -1,7 +1,6 @@
 # AHA
 <strong>Android Hybrid App</strong>
 <p>V.0.1-BETA</p>
-<br/>
 
 ### WHAT IS THIS ?
 AHA (Android Hybrid App) is a emulator full app for android.<br/>
