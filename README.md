@@ -6,7 +6,7 @@
 <p>
 AHA (Android Hybrid App) is a emulator full app for android.<br/>
 You can use your CMS URL or your Responsive web URL like a Android app.<br/>
-<b>NOTE:</b> You need to export this project with Android Studio if you want to install .apk file.
+<b>NOTE:</b> You need to export this project with Android Studio if you want to install .apk file.<br/>
 <b>NOTE:</b> If you want just to upload the app. Use: Configure on-device developer options
 
 </p>
