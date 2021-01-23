@@ -15,3 +15,10 @@ You can use your CMS URL or your Responsive web URL like a Android app.
 	- Firebase
 	- Gmail Login
 	- Facebook Login
+	- Icons
+	- WhatsApp Chat
+	
+	
+### How TO ?
+`1` Step: You need a `Responsive` URL
+`2` Step: You need edit `AHA/app/src/main/java/aha/ircayuda/org/MainActivity.java` line 25: `String target_url=`
