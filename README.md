@@ -49,12 +49,15 @@ on this step you need to make sure you got a Facebook Developer API for make thi
 `6` <b>Step:</b> Remember this is a custom app. So you need to edit ID APP: `applicationId` in ` AHA/app/build.gradle`<br/>
 <b>Line 21:</b> `applicationId "aha.ircayuda.org"` <br/>
 
-
-
 ### Configure on-device developer options
 
 <p>The Settings app on Android includes a screen called Developer options that lets you configure system behaviors that help you profile and debug your app performance. 
 For example, you can enable debugging over USB, capture a bug report, enable visual feedback for taps, flash window surfaces when they update, use the GPU for 2D graphics rendering, and more. </p>
+<br/>
+<p>
+<b>How to developer mode:</b> https://developer.android.com/studio/debug/dev-options
+</p>
+
 ## ICONS
 
 `NOTE:` You can edit your APP incons. Make sure you use this example we got in this page. ( PX = Pixel ) 48x48px means. 48px with. 48px heigh.<br/>
