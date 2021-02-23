@@ -2,7 +2,14 @@
 <strong>Android Hybrid App</strong>
 <p>V.1.3</p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/unixfool/AHA?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/unixfool/AHA?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/unixfool/AHA?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/unixfool/AHA?color=violet&style=for-the-badge">
+ </p>
+ 
 ### WHAT IS THIS ?
 <p>
 AHA (Android Hybrid App) is a emulator full app for android.<br/>
