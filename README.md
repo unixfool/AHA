@@ -7,7 +7,13 @@
   <img src="https://img.shields.io/github/stars/unixfool/AHA?style=for-the-badge">
   <img src="https://img.shields.io/github/forks/unixfool/AHA?color=teal&style=for-the-badge">
   <img src="https://img.shields.io/github/issues/unixfool/AHA?color=violet&style=for-the-badge">
+
+ <a href="https://www.buymeacoffee.com/unixfool"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=unixfool&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+ 
+ [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
+ 
  </p>
+ 
  
 ### WHAT IS THIS ?
 <p>
@@ -215,11 +221,4 @@ For example, you can enable debugging over USB, capture a bug report, enable vis
 #### Splash Screen
 <img src="https://ircayuda.org/aha/img/APP/splash.jpg" alt="AHA - Android Hybrid App" />
  
- 
- <p>
- <a href="https://www.buymeacoffee.com/unixfool"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=unixfool&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
- 
- [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
- 
- </p>
- 
+
