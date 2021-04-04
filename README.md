@@ -1,6 +1,6 @@
 # AHA
 <strong>Android Hybrid App</strong>
-<p>V.1.4</p>
+<p>V.1.3</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
